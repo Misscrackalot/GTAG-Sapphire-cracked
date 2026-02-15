@@ -6,7 +6,7 @@ OK it's  simple.
 3) right click the file
 4) press Run as administrator
 5) press  yes on the dialog that pops up
-6) install required files
+6) insert password as ezcrack
 7) if all is done right the app should start alongside with GTAG to open i think it was Y idk
 If you got this crack anywhere other then this repo then compare the hashes. otherwise you may be ratted.
 It has all features of the latest version (v3.6). Keep in mind Sapphire devs actively look for public cracks meaning they could update to make  this crack obsolete or OOD.
