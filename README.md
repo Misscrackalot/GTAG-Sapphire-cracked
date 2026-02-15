@@ -12,3 +12,4 @@ If you got this crack anywhere other then this repo then compare the hashes. oth
 It has all features of the latest version (v3.6). Keep in mind Sapphire devs actively look for public cracks meaning they could update to make  this crack obsolete or OOD.
 Have fun.
 Also im pretty sure using the ban player only kicks them from the lobby.
+Supports: all VRs that can be connected to a PC. keep vr connected to PC to be able to use it (or just start the game with the VR connected)
